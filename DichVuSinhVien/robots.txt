@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dichvusinhvien.netlify.app/sitemap.xml
